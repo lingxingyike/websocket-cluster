@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ActiveDebugProfile>WebSocketApplication1</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\WebSocketApplication1\Properties\PublishProfiles\registry.hub.docker.com_lingxingyike.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

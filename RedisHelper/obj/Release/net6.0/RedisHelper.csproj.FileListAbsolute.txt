@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\bin\Release\net6.0\RedisHelper.deps.json
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\bin\Release\net6.0\RedisHelper.dll
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\bin\Release\net6.0\RedisHelper.pdb
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\obj\Release\net6.0\RedisHelper.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\obj\Release\net6.0\RedisHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\obj\Release\net6.0\RedisHelper.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\obj\Release\net6.0\RedisHelper.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\obj\Release\net6.0\RedisHelper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\obj\Release\net6.0\RedisHelper.dll
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\obj\Release\net6.0\refint\RedisHelper.dll
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\obj\Release\net6.0\RedisHelper.pdb
+C:\Users\Administrator\Desktop\学习文件\WebSocketApplication2\WebSocketApplication2\RedisHelper\obj\Release\net6.0\ref\RedisHelper.dll

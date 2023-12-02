@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>6b8f03f3-82a7-4c88-a0e9-acb29e7c6f1a</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.4" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.6.0" />
+    <PackageReference Include="StackExchange.Redis" Version="2.7.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RedisHelper\RedisHelper.csproj" />
+  </ItemGroup>
+
+</Project>
